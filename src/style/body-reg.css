@@ -1,0 +1,39 @@
+.body1{
+    height: 88vh;
+    width: 100%;
+    background: black;
+    background-image: url("../img/rewarearew 1.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: 150%;
+    border-top: 1px solid transparent;
+    display: flex;
+}
+.derevo{
+    height: 90vh;
+    width: 50vw;
+    background-image: url("../img/Group 47234.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 7vh;
+    margin-left: 10vw;
+}
+.inp{
+    background: #FFFFFF;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    height: 6vh;
+    width: 30vw;
+    font-family: NS-r;
+    padding-left: 1vh;
+    margin-top: 0.7vh;
+}
+.t-int{
+    margin-top: 4vh;
+    font-family: NS-r;
+    font-size: 20px;
+    color: #FFFFFF;
+}
